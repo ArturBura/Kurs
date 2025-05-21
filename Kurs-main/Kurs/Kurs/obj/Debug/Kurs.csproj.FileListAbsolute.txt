@@ -1,0 +1,15 @@
+C:\Users\gagau\OneDrive\Рабочий стол\Kurs\Kurs\obj\Debug\Kurs.csproj.AssemblyReference.cache
+C:\Users\gagau\OneDrive\Рабочий стол\Kurs\Kurs\obj\Debug\Kurs.csproj.CoreCompileInputs.cache
+C:\Users\gagau\OneDrive\Рабочий стол\Kurs\Kurs\bin\Debug\Kurs.exe.config
+C:\Users\gagau\OneDrive\Рабочий стол\Kurs\Kurs\bin\Debug\Kurs.exe
+C:\Users\gagau\OneDrive\Рабочий стол\Kurs\Kurs\bin\Debug\Kurs.pdb
+C:\Users\gagau\OneDrive\Рабочий стол\Kurs\Kurs\obj\Debug\Kurs.exe
+C:\Users\gagau\OneDrive\Рабочий стол\Kurs\Kurs\obj\Debug\Kurs.pdb
+C:\Users\gagau\OneDrive\Рабочий стол\Kurs\Kurs\obj\Debug\Kurs.exe.config
+C:\Users\Kab-35-16\Desktop\Kurs-main\Kurs\Kurs\bin\Debug\Kurs.exe.config
+C:\Users\Kab-35-16\Desktop\Kurs-main\Kurs\Kurs\bin\Debug\Kurs.exe
+C:\Users\Kab-35-16\Desktop\Kurs-main\Kurs\Kurs\bin\Debug\Kurs.pdb
+C:\Users\Kab-35-16\Desktop\Kurs-main\Kurs\Kurs\obj\Debug\Kurs.csproj.AssemblyReference.cache
+C:\Users\Kab-35-16\Desktop\Kurs-main\Kurs\Kurs\obj\Debug\Kurs.csproj.CoreCompileInputs.cache
+C:\Users\Kab-35-16\Desktop\Kurs-main\Kurs\Kurs\obj\Debug\Kurs.exe
+C:\Users\Kab-35-16\Desktop\Kurs-main\Kurs\Kurs\obj\Debug\Kurs.pdb
